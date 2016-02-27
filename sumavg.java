@@ -17,6 +17,8 @@ public class sumavg {
 		  
 		  average= sum/ubound;
 		System.out.println(average);
+		
+	        
 	}
 
 }
